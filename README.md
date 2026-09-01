@@ -1,11 +1,17 @@
-# Data Analysis Portfolio
+# Financial & Data Analytics Portfolio
 
-Меня зовут **Мария Чистякова**.
+Меня зовут Мария Чистякова.
 
-Я студентка **3 курса НИУ ВШЭ**, образовательная программа **«Прикладной анализ данных» (Data Science and Business Analytics)**.  
-Мой майнор — **«Финансы»**.
+Я студентка 3 курса НИУ ВШЭ образовательной программы  
+«Прикладной анализ данных» (Data Science and Business Analytics).
 
-В этом репозитории собраны мои проекты в области **анализа данных, статистики, финансового моделирования и исследования рисков**.
+Мой майнор — «Финансы».
+
+Сейчас также работаю ассистентом по финансам в НИУ ВШЭ.
+
+Интересуюсь **финансовой аналитикой, анализом данных, статистическим моделированием и финансовыми рынками**.
+
+В этом репозитории собраны мои учебные и исследовательские проекты, связанные с **анализом данных, финансовым моделированием, статистикой и исследованием рисков**.
 
 ---
 
@@ -13,21 +19,24 @@
 
 ### 1. Financial Risk Modelling of US Equities During COVID-19
 
-Проект, выполненный в рамках летней школы **London School of Economics and Political Science (LSE)**.
+Проект, выполненный в рамках летней школы  
+**London School of Economics and Political Science (LSE)**.
 
-Исследование доходности, волатильности и зависимости между акциями крупнейших компаний США в период пандемии COVID-19.
+Исследование поведения акций крупнейших компаний США и изменения портфельного риска в период пандемии COVID-19.
 
 **В рамках проекта:**
 
-- проведён анализ ежедневных доходностей акций;
-- исследована волатильность в разные периоды;
-- проанализированы зависимости между активами;
+- собраны и обработаны исторические данные по **10 акциям из 5 отраслей**;
+- рассчитаны ежедневные доходности и показатели волатильности;
+- проведено сравнение поведения рынка до и во время пандемии;
+- проанализированы зависимости между финансовыми активами;
 - использованы **Normal** и **Student-t distributions**;
-- применены **copula-модели** для моделирования зависимости между активами;
+- применены **copula-модели** для анализа зависимости между активами;
 - проведена оценка портфельного риска;
-- изучено влияние экстремальных рыночных движений на структуру зависимости между акциями.
+- сравнены различные статистические модели;
+- проанализировано влияние кризисного периода на риск и структуру зависимости между активами.
 
-**Темы:** Financial Risk, Statistics, Portfolio Analysis, Copula Models, Dependence Modelling
+**Навыки:** Financial Analysis, Statistical Analysis, Risk Modelling, Portfolio Analysis, Scenario Analysis, Dependence Modelling
 
 ---
 
@@ -35,16 +44,17 @@
 
 Исследовательский проект, посвящённый взаимосвязи между структурой финансовых сетей и системным риском.
 
-В работе рассматривается, как связи между финансовыми институтами могут влиять на устойчивость финансовой системы и распространение финансовых шоков.
+В работе рассматривается, как связи между финансовыми институтами могут влиять на устойчивость финансовой системы и распространение шоков.
 
 **В рамках проекта:**
 
 - исследована структура финансовых сетей;
-- рассмотрены механизмы распространения рисков между участниками рынка;
-- изучена взаимосвязь между сетевой структурой и системным риском;
-- рассмотрены факторы, влияющие на устойчивость финансовой системы.
+- рассмотрены механизмы передачи рисков между участниками рынка;
+- проанализирована взаимосвязь между сетевой структурой и системным риском;
+- изучены факторы, влияющие на финансовую устойчивость;
+- рассмотрено влияние взаимосвязанности участников рынка на распространение финансовых шоков.
 
-**Темы:** Systemic Risk, Financial Networks, Network Analysis, Financial Stability
+**Навыки:** Systemic Risk, Financial Networks, Network Analysis, Financial Stability, Research
 
 ---
 
@@ -52,83 +62,102 @@
 
 Аналитический проект на основе статистики игроков **NBA**.
 
-Цель проекта — исследовать характеристики наиболее результативных игроков и определить взаимосвязь между индивидуальными показателями игроков и успехом команды.
+Цель проекта — исследовать индивидуальные показатели игроков и их взаимосвязь с результатами команды.
 
 **В рамках проекта:**
 
 - выполнена загрузка, очистка и предобработка данных;
-- проведён исследовательский анализ данных (**EDA**);
-- проанализированы ключевые показатели игроков: **Points (PTS), Assists (AST), Rebounds (TRB), Field Goal Percentage (FG%), Turnovers (TOV)**;
+- проведён **Exploratory Data Analysis (EDA)**;
+- проанализированы ключевые показатели игроков:  
+  **Points, Assists, Rebounds, Field Goal Percentage, Turnovers**;
 - проведено сравнение индивидуальной результативности игроков;
-- исследована взаимосвязь между количеством очков и ассистов;
+- исследована корреляция между количеством очков и ассистов;
 - проведено сравнение показателей игроков в победных и проигранных матчах;
 - сформулированы и проверены аналитические гипотезы;
-- исследована взаимосвязь между стилем игры спортсменов и командным успехом.
+- проанализирована взаимосвязь между стилем игры и командным успехом.
 
-**Инструменты:** Python, Pandas, Jupyter Notebook  
-**Темы:** Data Analysis, Exploratory Data Analysis, Hypothesis Testing, Sports Analytics
+**Инструменты:** Python, Pandas, Jupyter Notebook
+
+**Навыки:** Data Analysis, EDA, Data Cleaning, Hypothesis Testing, Correlation Analysis, Sports Analytics
 
 ---
 
 ## Навыки
 
-### Programming & Data Analysis
+### Financial Analysis
+
+- Financial Analysis
+- Financial Modelling
+- Scenario Analysis
+- Portfolio Analysis
+- Financial Risk Modelling
+- Financial Markets
+- Systemic Risk
+- Analytical Problem Solving
+
+### Data Analysis & Statistics
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Statistical Analysis
+- Hypothesis Testing
+- Correlation Analysis
+- Regression Analysis
+- Data Visualization
+- Statistical Modelling
+
+### Programming & Tools
 
 - **Python**
 - **R**
 - **Pandas**
-- **Data Cleaning & Preprocessing**
-- **Exploratory Data Analysis (EDA)**
-- **Data Visualization**
+- **Jupyter Notebook**
+- **Excel / Google Sheets — basic/intermediate**
+- **Git / GitHub**
 
-### Statistics & Mathematics
+### Additional Knowledge
 
-- **Statistical Analysis**
-- **Hypothesis Testing**
-- **Probability & Statistics**
-- **Correlation Analysis**
-- **Regression Analysis**
-- **Statistical Modelling**
-
-### Machine Learning & Analytics
-
-- **Machine Learning fundamentals**
-- **Predictive Modelling**
-- **Analytical Problem Solving**
-
-### Finance & Risk Analysis
-
-- **Financial Risk Modelling**
-- **Portfolio Analysis**
-- **Financial Markets**
-- **Systemic Risk**
-- **Financial Networks**
-- **Dependence Modelling**
-- **Copula Models**
+- Machine Learning fundamentals
+- Predictive Modelling
+- Financial Networks
+- Copula Models
+- Dependence Modelling
 
 ---
 
 ## Образование
 
-**Национальный исследовательский университет «Высшая школа экономики» (НИУ ВШЭ)**  
+**Национальный исследовательский университет  
+«Высшая школа экономики» (НИУ ВШЭ)**
+
 **Факультет компьютерных наук**
 
 - **Программа:** Прикладной анализ данных / Data Science and Business Analytics
 - **Курс:** 3
 - **Майнор:** Финансы
 
-Часть представленных в репозитории проектов была выполнена в рамках университетского обучения и академических программ, включая **London School of Economics and Political Science (LSE)**.
+Образовательная программа включает изучение:
+
+- анализа данных;
+- статистики;
+- программирования;
+- машинного обучения;
+- математических методов;
+- прикладного моделирования.
+
+Часть представленных проектов была выполнена в рамках университетского обучения и академических программ, включая **London School of Economics and Political Science (LSE)**.
 
 ---
 
 ## Области интересов
 
+- Financial Analytics
 - Data Analysis
 - Data Science
-- Financial Analytics
 - Risk Management
-- Machine Learning
+- Financial Modelling
 - Quantitative Finance
+- Machine Learning
 
 ---
 
