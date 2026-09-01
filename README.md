@@ -76,7 +76,7 @@
 - сформулированы и проверены аналитические гипотезы;
 - проанализирована взаимосвязь между стилем игры и командным успехом.
 
-**Инструменты:** Python, Pandas, Jupyter Notebook
+**Инструменты:** Python, Pandas
 
 **Навыки:** Data Analysis, EDA, Data Cleaning, Hypothesis Testing, Correlation Analysis, Sports Analytics
 
@@ -111,7 +111,6 @@
 - **Python**
 - **R**
 - **Pandas**
-- **Jupyter Notebook**
 - **Excel / Google Sheets — basic/intermediate**
 - **Git / GitHub**
 
