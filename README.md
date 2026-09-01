@@ -17,7 +17,7 @@
 
 ## Проекты
 
-### 1. Financial Risk Modelling of US Equities During COVID-19
+### 1. [Financial Risk Modelling of US Equities During COVID-19](financial-risk-lse/)
 
 Проект, выполненный в рамках летней школы  
 **London School of Economics and Political Science (LSE)**.
@@ -40,7 +40,7 @@
 
 ---
 
-### 2. Network Topology and Systemic Risk in Financial Markets
+### 2. [Network Topology and Systemic Risk in Financial Markets](systemic-risk/)
 
 Исследовательский проект, посвящённый взаимосвязи между структурой финансовых сетей и системным риском.
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 3. NBA Player Performance and Team Success Analysis
+### 3. [NBA Player Performance and Team Success Analysis](nba-player-analysis/)
 
 Аналитический проект на основе статистики игроков **NBA**.
 
