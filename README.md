@@ -42,7 +42,7 @@
 
 ### 2. [Network Topology and Systemic Risk in Financial Markets](systemic-risk/)
 
-Исследовательский проект по моделированию каскадных шоков и системного риска в финансовом рынке с использованием **agent-based modelling**.
+Исследовательский проект по моделированию каскадных шоков и системного риска на финансовом рынке с использованием **agent-based modelling**.
 
 В рамках проекта разработана одномерная модель взаимодействия участников рынка, позволяющая исследовать, как **повторяющиеся и локальные шоки, устойчивость отдельных агентов и механизмы распространения стресса** влияют на возникновение каскадных отказов.
 
@@ -53,10 +53,10 @@
 - исследовано влияние частоты и величины повторяющихся шоков на масштаб рыночного ущерба;
 - проанализировано влияние индивидуальных **resistance thresholds** на вероятность и размер финансовых каскадов;
 - исследованы локальные механизмы распространения стресса и влияние параметров взаимодействия между агентами;
-- проведены многократные симуляции с различными random seeds и статистическая проверка результатов с использованием **bootstrap confidence intervals и hypothesis testing**;
+- проведены многократные симуляции с различными random seeds и статистическая проверка результатов с использованием **bootstrap confidence intervals** и **hypothesis testing**;
 - показано, что более высокие пороги устойчивости в целом снижают вероятность и масштаб каскадов, а повторяющиеся небольшие шоки в некоторых режимах могут приводить к ущербу, сопоставимому с единичным крупным шоком.
 
-**Навыки:** Agent-Based Modelling, Systemic Risk, Financial Modelling, Statistical Analysis, Simulation, Hypothesis Testing, Risk Analysis
+**Навыки:** Agent-Based Modelling, Systemic Risk, Risk Modelling, Statistical Analysis, Simulation, Hypothesis Testing, Risk Analysis
 
 ---
 
@@ -82,7 +82,7 @@
 
 **Инструменты:** Python, Pandas, NumPy, Plotly, SciPy, Google Colab
 
-**Навыки:** Data Analysis, EDA, Data Cleaning, Hypothesis Testing, Correlation Analysis, Sports Analytics
+**Навыки:** Data Analysis, EDA, Data Cleaning & Preprocessing, Data Visualization, Hypothesis Testing, Correlation Analysis, Descriptive Statistics, Sports Analytics
 
 ---
 
@@ -116,9 +116,9 @@
 - **R**
 - **Pandas**
 - **NumPy**
-- **Matplotlib**
 - **SciPy**
 - **Plotly**
+- **Matplotlib**
 - **Excel / Google Sheets**
 - **Git / GitHub**
 - **Google Colab**
